@@ -1,4 +1,4 @@
-# xyloblonk.xyz
+# Personal Portfolio | xyloblonk.xyz
 This is my personal portfolio website.
 
 ## Use
