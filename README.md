@@ -1,7 +1,11 @@
 # xyloblonk.xyz
 This is my personal portfolio website.
 
+## Use
 Please request to use source code or at least provide some shoutout leading to this repo.
+
+## Issues
+You can create a pull request if you fix any issues.
 
 
 ## License
