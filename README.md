@@ -1,4 +1,6 @@
 # Personal Portfolio | xyloblonk.xyz
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxyloblonk%2Fxyloblonk.xyz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxyloblonk%2Fxyloblonk.xyz?ref=badge_shield)
+
 This is my personal portfolio website.
 
 ## Use
@@ -685,3 +687,6 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxyloblonk%2Fxyloblonk.xyz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxyloblonk%2Fxyloblonk.xyz?ref=badge_large)
